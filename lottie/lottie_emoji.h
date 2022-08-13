@@ -8,6 +8,7 @@
 
 #include "ui/effects/frame_generator.h"
 
+#include <memory>
 #include <QtGui/QImage>
 
 namespace rlottie {
